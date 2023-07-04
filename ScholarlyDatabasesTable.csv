@@ -1,34 +1,36 @@
-﻿Name,Items (millions),Description,Access,Links
-WorldCat,500,,Free,
-Google Scholar,390,,Free,
-Dimensions,300,,Free,
-AMiner,270,,Free,
-BASE,260,,Free,Open Knowledge Maps
-The Lens,230,,Free,citationchaser
-Microsoft Academic Graph,200,,Not available,
-Semantic Scholar Corpus,200,,Free,"Research Rabbit,Connected Papers,Elicit,Litmaps,Citation Graph,Local Citation Network,Citation Tree"
-OpenAlex,200,,Free,"Litmaps,Inciteful,Local Citation Network"
-CORE,200,,Free,
-Web of Science,170,,Subscription,
-fatcat,130,,Free,
-Crossref,111,,Free,"Litmaps,Inciteful,Citation Graph,Local Citation Network,Citation Tree,PURE suggest"
-Datacite,100,,Free,
-OpenCitations,90,,Free,"Inciteful,Local Citation Network,PURE suggest"
-Scopus,80,,Subscription,
-EMBASE,32,,Subscription,
-PubMed,30,,Free,Open Knowledge Maps
-Internet Archive Scholar,25,,Free,
-ScienceDirect,18,,Subscription,
-Inspec,18,,Subscription,
-AGRIS,12,,Free,
-Citeseer,10,,Free,
-DOAJ,8,,Free,
-dblp,5,,Free,
-GeoRef,4,,Subscription,
-MathSciNet,4,,Subscription,
-RePEC,3,,Free,
-OSF Preprints,3,,Free,
-EconLit,2,,Free,
-arXiv,2,,Free,
-HAL,1,,Free,
-scielo,1,,Free,
+Name;Items (millions);Access;Tools using this dataset
+WorldCat;500;Free;
+Google Scholar;390;Free;
+Dimensions;300;Free;
+AMiner;270;Free;
+BASE;260;Free;Open Knowledge Maps
+The Lens;230;Free;citationchaser
+Microsoft Academic Graph;200;Not available;
+Semantic Scholar Corpus;200;Free;Research Rabbit,Connected Papers,Elicit,Litmaps,Citation Graph,Local Citation Network,Citation Tree
+OpenAlex;200;Free;Litmaps,Inciteful,Local Citation Network,OpenAlex
+CORE;200;Free;Scilit
+ORCID;200;Free;Scilit
+Web of Science;170;Subscription;
+fatcat;130;Free;
+Crossref;111;Free;Litmaps,Inciteful,Citation Graph,Local Citation Network,Citation Tree,PURE suggest,Scilit
+Datacite;100;Free;
+OpenCitations;90;Free;Inciteful,Local Citation Network,PURE suggest
+Scopus;80;Subscription;
+EMBASE;32;Subscription;
+PubMed;30;Free;Open Knowledge Maps,Scilit
+Internet Archive Scholar;25;Free;
+ScienceDirect;18;Subscription;
+Inspec;18;Subscription;
+Unpaywall;15;Free;Scilit
+AGRIS;12;Free;
+Citeseer;10;Free;
+DOAJ;8;Free;Scilit
+dblp;5;Free;
+GeoRef;4;Subscription;
+MathSciNet;4;Subscription;
+RePEC;3;Free;
+OSF Preprints;3;Free;
+EconLit;2;Free;
+arXiv;2;Free;Scilit
+HAL;1;Free;Scilit
+scielo;1;Free;
